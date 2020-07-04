@@ -1,0 +1,3683 @@
+fileFormatVersion: 2
+guid: dcc0775c3870b3c40ba66287d95f2561
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3663856098208787966
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_0
+  - first:
+      213: -7686811267247843033
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_1
+  - first:
+      213: -1898419012218503286
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_2
+  - first:
+      213: 6053542382566375491
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_3
+  - first:
+      213: 788590940079953155
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_4
+  - first:
+      213: 4573490725486778602
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_5
+  - first:
+      213: 252576210114126967
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_6
+  - first:
+      213: 743602289582745781
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_7
+  - first:
+      213: 5273094536951313786
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_8
+  - first:
+      213: -6823984260825771861
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_9
+  - first:
+      213: 5497516269206366334
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_10
+  - first:
+      213: -2884545843434790273
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_11
+  - first:
+      213: -631011298534160142
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_12
+  - first:
+      213: -409703367692452233
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_13
+  - first:
+      213: -3297579910312540853
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_14
+  - first:
+      213: 7823511511584588624
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_15
+  - first:
+      213: 1455852246741645340
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_16
+  - first:
+      213: -3875486753300236340
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_17
+  - first:
+      213: 2537192229554919972
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_18
+  - first:
+      213: -3939188737318845296
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_19
+  - first:
+      213: 8450418698082537593
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_20
+  - first:
+      213: -3837140574478687042
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_21
+  - first:
+      213: -8659934654601505288
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_22
+  - first:
+      213: -2043050117876204424
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_23
+  - first:
+      213: 91070883716538255
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_24
+  - first:
+      213: 1130329595397474378
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_25
+  - first:
+      213: -3579600141767369665
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_26
+  - first:
+      213: 7615662970225743574
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_27
+  - first:
+      213: -2065513068128897974
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_28
+  - first:
+      213: -9221355457721982955
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_29
+  - first:
+      213: -4653640519223667211
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_30
+  - first:
+      213: 6696445627419625688
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_31
+  - first:
+      213: -1328770607843212393
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_32
+  - first:
+      213: -1445583167104650289
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_33
+  - first:
+      213: -3948342471206309848
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_34
+  - first:
+      213: -6514610585735691326
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_35
+  - first:
+      213: -6731216370492033606
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_36
+  - first:
+      213: -6897224155556334715
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_37
+  - first:
+      213: -5058782018285659344
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_38
+  - first:
+      213: -4159430422536969589
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_39
+  - first:
+      213: 5122813941363849511
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_40
+  - first:
+      213: 103108763413812287
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_41
+  - first:
+      213: 5107619133073133032
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_42
+  - first:
+      213: -2322996633533011390
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_43
+  - first:
+      213: 5508117008654329510
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_44
+  - first:
+      213: -7021570815283032629
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_45
+  - first:
+      213: 4009061724755442347
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_46
+  - first:
+      213: -130208166859268971
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_47
+  - first:
+      213: 1786603228532700258
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_48
+  - first:
+      213: -3241437523709163758
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_49
+  - first:
+      213: 7174746553468385386
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_50
+  - first:
+      213: 2306947280394590399
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_51
+  - first:
+      213: 3190385692469995543
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_52
+  - first:
+      213: 6772220162373208533
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_53
+  - first:
+      213: 1908398301994400953
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_54
+  - first:
+      213: 2180254047941610647
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_55
+  - first:
+      213: -4437622871324765594
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_56
+  - first:
+      213: 623292848136038651
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_57
+  - first:
+      213: -1596677427507954523
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_58
+  - first:
+      213: -5956248328333022924
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_59
+  - first:
+      213: -6367123973960189590
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_60
+  - first:
+      213: 5737775457819435771
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_61
+  - first:
+      213: -8102715166833698250
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_62
+  - first:
+      213: -6116719195688819311
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_63
+  - first:
+      213: -3164744400499629987
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_64
+  - first:
+      213: -3083328845103640148
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_65
+  - first:
+      213: 9028962701614199856
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_66
+  - first:
+      213: 3470233308664584323
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_67
+  - first:
+      213: 8675716203224084879
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_68
+  - first:
+      213: -3003987524762075120
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_69
+  - first:
+      213: 7676915328130039002
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_70
+  - first:
+      213: 3449420607935310170
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_71
+  - first:
+      213: -3133824264945866311
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_72
+  - first:
+      213: -3644313018454453229
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_73
+  - first:
+      213: 2178383937193515196
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_74
+  - first:
+      213: -2269405997847305849
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_75
+  - first:
+      213: -3682491277866232693
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_76
+  - first:
+      213: 8202498849037249934
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_77
+  - first:
+      213: 2354364934293288866
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_78
+  - first:
+      213: 8898620520626593581
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_79
+  - first:
+      213: 4084736535575979843
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_80
+  - first:
+      213: -5027960987448361924
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_81
+  - first:
+      213: 735483272729451749
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_82
+  - first:
+      213: -1902070398329988949
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_83
+  - first:
+      213: 3217993642181516425
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_84
+  - first:
+      213: -141812039985138255
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_85
+  - first:
+      213: 5050434596417026793
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_86
+  - first:
+      213: 3578817271529893500
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_87
+  - first:
+      213: -4286548201976452125
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_88
+  - first:
+      213: 1431387271472515014
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_89
+  - first:
+      213: 3066382640209320178
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_90
+  - first:
+      213: 2438981633220881316
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_91
+  - first:
+      213: 447527499530387594
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_92
+  - first:
+      213: 7954174467941023917
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_93
+  - first:
+      213: -1553370264353291974
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_94
+  - first:
+      213: -5279807039559245534
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_95
+  - first:
+      213: 3097914423032979591
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_96
+  - first:
+      213: 561493769979584521
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_97
+  - first:
+      213: 3428368404279544531
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_98
+  - first:
+      213: 3768495415001177989
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_99
+  - first:
+      213: -6793709621830323964
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_100
+  - first:
+      213: -6520469964952620510
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_101
+  - first:
+      213: 4934115701905420463
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_102
+  - first:
+      213: 5819218134261679165
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_103
+  - first:
+      213: 4122205744998045137
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_104
+  - first:
+      213: -3011358575254017051
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_105
+  - first:
+      213: -9061894423366713749
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_106
+  - first:
+      213: 8598931171879768832
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_107
+  - first:
+      213: -5683217101411935086
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_108
+  - first:
+      213: 6467949892193740033
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_109
+  - first:
+      213: 3387773789554452955
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_110
+  - first:
+      213: 2339193242707318172
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_111
+  - first:
+      213: 8956673211481951159
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_112
+  - first:
+      213: 4075132803333390983
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_113
+  - first:
+      213: -486666695478893913
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_114
+  - first:
+      213: -5454631974056731179
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_115
+  - first:
+      213: 7135590894996161824
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_116
+  - first:
+      213: -2892850653599227186
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_117
+  - first:
+      213: 9189026750252141303
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_118
+  - first:
+      213: -8927628260060396889
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_119
+  - first:
+      213: 5382475302870023420
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_120
+  - first:
+      213: 3001479595802660267
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_121
+  - first:
+      213: -3823049927154510891
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_122
+  - first:
+      213: 6157664697766909202
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_123
+  - first:
+      213: 7871076956081250960
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_124
+  - first:
+      213: 6022144148000026443
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_125
+  - first:
+      213: 876342697643586045
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_126
+  - first:
+      213: -8931949240105316091
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_127
+  - first:
+      213: 6337733323485069885
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_128
+  - first:
+      213: 6327642381830285037
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_129
+  - first:
+      213: 8397607428876812162
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_130
+  - first:
+      213: -7996891993816550990
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_131
+  - first:
+      213: -7861523913874973093
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_132
+  - first:
+      213: 3674799304717003903
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_133
+  - first:
+      213: -7003981204010699293
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_134
+  - first:
+      213: 7305155364773264551
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_135
+  - first:
+      213: -985176203925236366
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_136
+  - first:
+      213: -8391632873305459161
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_137
+  - first:
+      213: 7292516631066379654
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_138
+  - first:
+      213: -2730112821712282557
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_139
+  - first:
+      213: -227985340773140541
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_140
+  - first:
+      213: 429325010143931893
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_141
+  - first:
+      213: 7623060355198844521
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_142
+  - first:
+      213: -7008302455161273803
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_143
+  - first:
+      213: -5681500209111544572
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_144
+  - first:
+      213: 4275085739827969743
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_145
+  - first:
+      213: -3222141010549758470
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_146
+  - first:
+      213: 1550634146687070521
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_147
+  - first:
+      213: -6898807157091254242
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_148
+  - first:
+      213: 1528457377949433709
+    second: sonic_3_custom_sprites_by_facundogomez_dawphra_149
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 669
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202dd166a4e572dc0800000000000000
+      internalID: -3663856098208787966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 669
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729d83001e5f25590800000000000000
+      internalID: -7686811267247843033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 669
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f3ed577f577a5e0800000000000000
+      internalID: -1898419012218503286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 669
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34004a159b0820450800000000000000
+      internalID: 6053542382566375491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 605
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3059e882843a1fa00800000000000000
+      internalID: 788590940079953155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_5
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 605
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8de2c559d487f30800000000000000
+      internalID: 4573490725486778602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 605
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774219299b4518300800000000000000
+      internalID: 252576210114126967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_7
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 605
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b82fb4b75ec15a00800000000000000
+      internalID: 743602289582745781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_8
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 605
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7539061b8bcd2940800000000000000
+      internalID: 5273094536951313786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_9
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 605
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba09f9448765c41a0800000000000000
+      internalID: -6823984260825771861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_10
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 605
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78e9f47be91b4c40800000000000000
+      internalID: 5497516269206366334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_11
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 605
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f726dbf96d808f7d0800000000000000
+      internalID: -2884545843434790273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_12
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 605
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f80d9531923e37f0800000000000000
+      internalID: -631011298534160142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_13
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 605
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ef86135f0705af0800000000000000
+      internalID: -409703367692452233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_14
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 605
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b454b5bfa84ac32d0800000000000000
+      internalID: -3297579910312540853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_15
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 605
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053cd20e442b29c60800000000000000
+      internalID: 7823511511584588624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_16
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 605
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c187d7ca7e9343410800000000000000
+      internalID: 1455852246741645340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_17
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 605
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7bec1c451873ac0800000000000000
+      internalID: -3875486753300236340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_18
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 605
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a9081e3eae53320800000000000000
+      internalID: 2537192229554919972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 541
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09404e0d6b03559c0800000000000000
+      internalID: -3939188737318845296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 541
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970578e980be54570800000000000000
+      internalID: 8450418698082537593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 541
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4a5f04afcbfbac0800000000000000
+      internalID: -3837140574478687042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 541
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5d16e505bb1d780800000000000000
+      internalID: -8659934654601505288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_23
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 541
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c3ba90eb0a5a3e0800000000000000
+      internalID: -2043050117876204424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_24
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 541
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f1e497c7c834100800000000000000
+      internalID: 91070883716538255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_25
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 541
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4807cc37ccbfaf00800000000000000
+      internalID: 1130329595397474378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_26
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 541
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c9408f2a4b25ec0800000000000000
+      internalID: -3579600141767369665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_27
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 541
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6d6653f1540b960800000000000000
+      internalID: 7615662970225743574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_28
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 541
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44ff3fdec2d553e0800000000000000
+      internalID: -2065513068128897974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_29
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 541
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5102fda611a270080800000000000000
+      internalID: -9221355457721982955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_30
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 541
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f51f439a92fa6fb0800000000000000
+      internalID: -4653640519223667211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_31
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 541
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d88010a1dd8eec50800000000000000
+      internalID: 6696445627419625688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_32
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 541
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793868b1c224f8de0800000000000000
+      internalID: -1328770607843212393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 477
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3717fb4c140fbe0800000000000000
+      internalID: -1445583167104650289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 477
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820f820117ba439c0800000000000000
+      internalID: -3948342471206309848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_35
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 477
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3893b20347795a0800000000000000
+      internalID: -6514610585735691326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_36
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 477
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab53782ef5ae592a0800000000000000
+      internalID: -6731216370492033606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_37
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 477
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58332df6c232840a0800000000000000
+      internalID: -6897224155556334715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_38
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 477
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b13f39e889bc9b0800000000000000
+      internalID: -5058782018285659344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_39
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 477
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b822bbc711cb646c0800000000000000
+      internalID: -4159430422536969589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_40
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 477
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72939694324e71740800000000000000
+      internalID: 5122813941363849511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_41
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 480
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f349280cfd05e6100800000000000000
+      internalID: 103108763413812287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_42
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 477
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed00da4a88e1e640800000000000000
+      internalID: 5107619133073133032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_43
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 477
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a26db9ede03cfd0800000000000000
+      internalID: -2322996633533011390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_44
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 477
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6e0227c33c07c40800000000000000
+      internalID: 5508117008654329510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_45
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 479
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd0ecd9b8e5e8e90800000000000000
+      internalID: -7021570815283032629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_46
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 477
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baab9a2d56c03a730800000000000000
+      internalID: 4009061724755442347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_47
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 413
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c9f73bc58613ef0800000000000000
+      internalID: -130208166859268971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_48
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 413
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264f147ab2a4bc810800000000000000
+      internalID: 1786603228532700258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_49
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 413
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21781bdfeb91403d0800000000000000
+      internalID: -3241437523709163758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 413
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68f0f81af1d19360800000000000000
+      internalID: 7174746553468385386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_51
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 413
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8197b245ce30020800000000000000
+      internalID: 2306947280394590399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_52
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 413
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718a92842e6864c20800000000000000
+      internalID: 3190385692469995543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 413
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d94efe5b52cbfd50800000000000000
+      internalID: 6772220162373208533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_54
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 413
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcb550052efb7a10800000000000000
+      internalID: 1908398301994400953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_55
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 413
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ccaaf4181d14e10800000000000000
+      internalID: 2180254047941610647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_56
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 413
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662d98392856a62c0800000000000000
+      internalID: -4437622871324765594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_57
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 413
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8a0340b8166a800800000000000000
+      internalID: 623292848136038651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_58
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 413
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acf088d65677d9e0800000000000000
+      internalID: -1596677427507954523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_59
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 413
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43922b3f3b7275da0800000000000000
+      internalID: -5956248328333022924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_60
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 413
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69ba3bea7e63a7a0800000000000000
+      internalID: -6367123973960189590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 349
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2284cf06ca0af40800000000000000
+      internalID: 5737775457819435771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_62
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 349
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a15bc5c7f5d8f80800000000000000
+      internalID: -8102715166833698250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_63
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 350
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195a72e9c4c0d1ba0800000000000000
+      internalID: -6116719195688819311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_64
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 349
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50205b3cb19414d0800000000000000
+      internalID: -3164744400499629987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_65
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 349
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1d1e560c0d535d0800000000000000
+      internalID: -3083328845103640148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_66
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 349
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03437f75db15d4d70800000000000000
+      internalID: 9028962701614199856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_67
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 351
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3885ea2eeceb82030800000000000000
+      internalID: 3470233308664584323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_68
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 349
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81b541cbe5566870800000000000000
+      internalID: 8675716203224084879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_69
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 349
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0100ad41341bf46d0800000000000000
+      internalID: -3003987524762075120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_70
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 349
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc31ff11d1e98a60800000000000000
+      internalID: 7676915328130039002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_71
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 349
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5965e064cdcedf20800000000000000
+      internalID: 3449420607935310170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_72
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 349
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9e66b4f6b6284d0800000000000000
+      internalID: -3133824264945866311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_73
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 349
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314d0bc3e9ccc6dc0800000000000000
+      internalID: -3644313018454453229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_74
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 285
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb816d836ac2b3e10800000000000000
+      internalID: 2178383937193515196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_75
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 285
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781ab2fc4437180e0800000000000000
+      internalID: -2269405997847305849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_76
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 285
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b841f4681b925ecc0800000000000000
+      internalID: -3682491277866232693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_77
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 285
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d6a679e3125d170800000000000000
+      internalID: 8202498849037249934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_78
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 285
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7ff2c0f626ca020800000000000000
+      internalID: 2354364934293288866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_79
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 285
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f13f277304e7b70800000000000000
+      internalID: 8898620520626593581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_80
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 285
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347e01cbc36efa830800000000000000
+      internalID: 4084736535575979843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_81
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 285
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c3e960f18193ab0800000000000000
+      internalID: -5027960987448361924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_82
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 285
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecd749c326f43a00800000000000000
+      internalID: 735483272729451749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_83
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 285
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba851c1ec0d7a95e0800000000000000
+      internalID: -1902070398329988949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_84
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 285
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cd1bbfa2c98ac20800000000000000
+      internalID: 3217993642181516425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_85
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 285
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5ffc373be280ef0800000000000000
+      internalID: -141812039985138255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_86
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 221
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eab7c0d18fb61640800000000000000
+      internalID: 5050434596417026793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_87
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 221
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e6299d8538aa130800000000000000
+      internalID: 3578817271529893500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_88
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 221
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebaa941f1f1384c0800000000000000
+      internalID: -4286548201976452125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_89
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 222
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7822cb32f4dd310800000000000000
+      internalID: 1431387271472515014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_90
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 221
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8d91fc3cafd8a20800000000000000
+      internalID: 3066382640209320178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_91
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 221
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab25d58fd009d120800000000000000
+      internalID: 2438981633220881316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_92
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 221
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a804ab4c3efe53600800000000000000
+      internalID: 447527499530387594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_93
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 222
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da04b1b1987e26e60800000000000000
+      internalID: 7954174467941023917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_94
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 221
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31419489f1517ae0800000000000000
+      internalID: -1553370264353291974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_95
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 221
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221e67c987b5ab6b0800000000000000
+      internalID: -5279807039559245534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_96
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 221
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780a07911c00efa20800000000000000
+      internalID: 3097914423032979591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_97
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 221
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9006a3fdb93dac700800000000000000
+      internalID: 561493769979584521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_98
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 221
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da414046e2049f20800000000000000
+      internalID: 3428368404279544531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_99
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 221
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f55d41d926c4430800000000000000
+      internalID: 3768495415001177989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_100
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 221
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40176a3f715e7b1a0800000000000000
+      internalID: -6793709621830323964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_101
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 157
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22235622d13a285a0800000000000000
+      internalID: -6520469964952620510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_102
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 157
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0ffbcb610897440800000000000000
+      internalID: 4934115701905420463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_103
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 157
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34cd23cf0402c050800000000000000
+      internalID: 5819218134261679165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_104
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 157
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5dea1e844053930800000000000000
+      internalID: 4122205744998045137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_105
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 157
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb68a6a4518536d0800000000000000
+      internalID: -3011358575254017051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_106
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 157
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e322fa80fad3280800000000000000
+      internalID: -9061894423366713749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_107
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 157
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0035deb775a855770800000000000000
+      internalID: 8598931171879768832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_108
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 157
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c9ae048282121b0800000000000000
+      internalID: -5683217101411935086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_109
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 157
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105eb358826c2c950800000000000000
+      internalID: 6467949892193740033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_110
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 157
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9a5c9ff4ac30f20800000000000000
+      internalID: 3387773789554452955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_111
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 157
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9550945cdb767020800000000000000
+      internalID: 2339193242707318172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_112
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 157
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb83a3d4de7c4c70800000000000000
+      internalID: 8956673211481951159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_113
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 157
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7828a3391b7cd8830800000000000000
+      internalID: 4075132803333390983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_114
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 157
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2a7fb08330f39f0800000000000000
+      internalID: -486666695478893913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_115
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 157
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd5cd59e114d44b0800000000000000
+      internalID: -5454631974056731179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_116
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 92
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02502ceec16b60360800000000000000
+      internalID: 7135590894996161824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_117
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 93
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec226f358a78ad7d0800000000000000
+      internalID: -2892850653599227186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_118
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 93
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa4750d42bf58f70800000000000000
+      internalID: 9189026750252141303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_119
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 93
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a28c58e561ba1480800000000000000
+      internalID: -8927628260060396889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_120
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 93
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc71e735c462ba40800000000000000
+      internalID: 5382475302870023420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_121
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 93
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad86643ac567a920800000000000000
+      internalID: 3001479595802660267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_122
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 92
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d35f5db85cc1fac0800000000000000
+      internalID: -3823049927154510891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_123
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 92
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2151c5cfa6b647550800000000000000
+      internalID: 6157664697766909202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_124
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 92
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0926cfee9ceab3d60800000000000000
+      internalID: 7871076956081250960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_125
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 92
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f2db72234f29350800000000000000
+      internalID: 6022144148000026443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_126
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 97
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1bd8a5a05692c00800000000000000
+      internalID: 876342697643586045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_127
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 97
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501d3b75d775b0480800000000000000
+      internalID: -8931949240105316091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_128
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 97
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32cb7301e624f750800000000000000
+      internalID: 6337733323485069885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_129
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 16
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de663b2983d40d750800000000000000
+      internalID: 6327642381830285037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_130
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 39
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f3261d67b4a8470800000000000000
+      internalID: 8397607428876812162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_131
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 39
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b13669d915550190800000000000000
+      internalID: -7996891993816550990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_132
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 27
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e5e3807a146e290800000000000000
+      internalID: -7861523913874973093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_133
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 27
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c628a6f728ff230800000000000000
+      internalID: 3674799304717003903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_134
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 27
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5fd61243cdcce90800000000000000
+      internalID: -7003981204010699293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_135
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 27
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac79529910216560800000000000000
+      internalID: 7305155364773264551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_136
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 27
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2755ed35673f352f0800000000000000
+      internalID: -985176203925236366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_137
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 39
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726332dcc5eea8b80800000000000000
+      internalID: -8391632873305459161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_138
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 39
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68507511d39343560800000000000000
+      internalID: 7292516631066379654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_139
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 27
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c99197ad0bc1ad0800000000000000
+      internalID: -2730112821712282557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_140
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 27
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7783d5a8806dcf0800000000000000
+      internalID: -227985340773140541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_141
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 27
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fde1d272d445f500800000000000000
+      internalID: 429325010143931893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_142
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 27
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e7dfc110d8ac960800000000000000
+      internalID: 7623060355198844521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_143
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 27
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5324d917c028dbe90800000000000000
+      internalID: -7008302455161273803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_144
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 27
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d499469a14721b0800000000000000
+      internalID: -5681500209111544572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_145
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 27
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fceb8ca74d7245b30800000000000000
+      internalID: 4275085739827969743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_146
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 27
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5a6f192d7a843d0800000000000000
+      internalID: -3222141010549758470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_147
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 27
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931bfd17a85f48510800000000000000
+      internalID: 1550634146687070521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_custom_sprites_by_facundogomez_dawphra_148
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1047ab21738240a0800000000000000
+      internalID: -6898807157091254242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
